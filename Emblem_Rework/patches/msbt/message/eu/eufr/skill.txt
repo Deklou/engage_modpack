@@ -390,3 +390,8 @@ Si l'unité possède 100% de ses PV et
 que l'ennemi est équipé d'un art,
 l'unité peut effectuer une double frappe,
 mais pas l'ennemi.
+
+[MSID_H_SPConvert]
+Confère PT +50 pour chaque ennemi
+vaincu. Se déclenche même si aucun
+anneau ou bracelet n'est équipé.

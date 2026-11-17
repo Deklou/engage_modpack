@@ -359,3 +359,8 @@ cannot follow up.
 If unit’s HP=100% and foe has an art
 equipped, unit can follow up and foe
 cannot follow up.
+
+[MSID_H_SPConvert]
+Grants +50 SP for each defeated
+foe. Triggers even without a ring or
+bracelet equipped.
