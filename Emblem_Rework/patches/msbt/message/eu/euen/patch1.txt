@@ -3,11 +3,10 @@ Critical hits deal +5 damage.
 [MSID_H_CleanUp+]
 Critical hits deal +10 damage.
 
-
 [MSID_H_EarthVeinAbsorption]
 After unit acts or waits in flames, miasma, 
 or similar terrain effect, grants Crit+10,
-unit clears effect and recovers 10 HP.
+and recovers 10 HP.
 
 [MSID_H_Detox]
 Cures poison at start of turn and 

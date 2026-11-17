@@ -5,12 +5,10 @@ dégâts lors d'un coup critique.
 L'unité inflige +10 points de
 dégâts lors d'un coup critique.
 
-
 [MSID_H_EarthVeinAbsorption]
 Si l'unité agit ou attend sur une case
 à effet (flammes, miasmes, etc.), confère
-Crit +10, annule les effets qui touchent 
-la case qu'elle occupe et restaure 10 PV.
+Crit +10 et restaure 10 PV.
 
 [MSID_H_Detox]
 Soigne le poison et l'unité recouvre

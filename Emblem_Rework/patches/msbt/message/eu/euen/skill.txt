@@ -364,3 +364,4 @@ cannot follow up.
 Grants +50 SP for each defeated
 foe. Triggers even without a ring or
 bracelet equipped.
+
