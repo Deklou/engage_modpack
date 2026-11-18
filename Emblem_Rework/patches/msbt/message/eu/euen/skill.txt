@@ -370,3 +370,34 @@ When equipped with a tome, if unit'skills
 HP is 2 or more, unit loses 1 HP at
 start of combat and deals +4
 damage during combat.
+
+[MSID_CelicaEngageAtk＋]
+Warp Ragnarok+
+
+[MSID_H_CelicaEngageAtk_CMD＋]
+Warp and attack with a chosen tome.
+
+[MSID_H_CelicaEngageAtk＋]
+Use to warp up to 10 spaces and
+attack with a tome of your choice.
+
+[MSID_H_CelicaEngageAtk＋_Dragon]
+Use to warp up to 10 spaces and
+attack with a tome of your choice.
+[Dragon] Attack range +1.
+
+[MSID_H_CelicaEngageAtk＋_Horse]
+Use to warp up to 12 spaces and
+attack with a tome of your choice.
+[Cavalry] Warp distance +2.
+
+[MSID_H_CelicaEngageAtk＋_Fly]
+Use to warp up to 15 spaces and
+attack with a tome of your choice.
+[Flying] Warp distance +5.
+
+[MSID_H_CelicaEngageAtk＋_Magic]
+Use to warp up to 10 spaces and
+attack with a tome of your choice.
+[Mystical] Damage +20%.
+
