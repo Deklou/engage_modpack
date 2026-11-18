@@ -395,3 +395,9 @@ mais pas l'ennemi.
 Confère PT +50 pour chaque ennemi
 vaincu. Se déclenche même si aucun
 anneau ou bracelet n'est équipé.
+
+[MSID_H_BlackMagic_2]
+Si l'unité est équipée d'un tome et
+que ses PV sont au moins à 2, l'unité
+perd 1 PV en début de combat
+et inflige +4 points de dégâts.
