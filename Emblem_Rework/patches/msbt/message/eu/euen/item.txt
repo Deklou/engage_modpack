@@ -69,3 +69,21 @@ Sword wielded by Emblem Eirika.
 Effective against flying foes.
 Uses Str against Def at close range.
 At range, uses Str/2 against Res.
+
+[MIID_H_Lueur_Oligoludia]
+Sword wielded by Emblem $P.
+Effective: Corrupted.
+Ignores immunity to effectiveness.
+Can Break immune foes when at
+a weapon advantage.
+
+[MIID_H_Lueur_DragonFist]
+Magical attack wielded by Emblem $P.
+If user initiates combat, attacks twice.
+Uses the higher of Mag or average
+Str/Mag for attack power.
+
+[MIID_H_Lueur_Lyration]
+Sword of Emblem $P.
+After combat, fills adjacent allies'
+engage meters by 1.

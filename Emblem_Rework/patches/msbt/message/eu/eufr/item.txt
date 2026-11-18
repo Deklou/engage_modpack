@@ -73,3 +73,21 @@ Si avantage : dégâts +1, Prc +15,
 Efficace contre les unités volantes.
 Au corps à corps : Frc contre Déf.
 À distance : Frc/2 contre Rés.
+
+[MIID_H_Lueur_Oligoludia]
+Épée maniée par l'Emblème $P.
+Efficace contre les Aberrations.
+Ignore les immunités aux efficacités.
+Peut briser la garde malgré une immunité
+en cas d'avantage d'arme.
+
+[MIID_H_Lueur_DragonFist]
+Attaque magique de l'Emblème $P.
+Si l'unité attaque, frappe deux fois.
+Atq basée sur la valeur la plus élevée :
+Mag ou moyenne de Frc et Mag.
+
+[MIID_H_Lueur_Lyration]
+Épée de l'Emblème $P.
+Après chaque combat, jauge de
+fusion +1 pour les alliés adjacents.
