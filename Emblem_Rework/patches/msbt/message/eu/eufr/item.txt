@@ -91,3 +91,16 @@ Mag ou moyenne de Frc et Mag.
 Épée de l'Emblème $P.
 Après chaque combat, jauge de
 fusion +1 pour les alliés adjacents.
+
+[MIID_H_Leaf_LightBrand]
+Épée magique de l'Emblème Leif.
+Confère Cha +10. Peut attaquer
+au loin ou au corps à corps.
+Attaque physique au corps à corps,
+magique à distance.
+
+[MIID_H_Senerio_Rexcalibur]
+Un puissant tome de magie de vent
+manié par l'Emblème Soren.
+Efficace contre les unités volantes.
+Confère Cha +3.

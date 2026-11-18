@@ -87,3 +87,15 @@ Str/Mag for attack power.
 Sword of Emblem $P.
 After combat, fills adjacent allies'
 engage meters by 1.
+
+[MIID_H_Leaf_LightBrand]
+Magical sword wielded by Emblem
+Leif. Grants Lck+10. Can strike
+close or at range. Deals physical
+damage at close range and magical
+damage at range.
+
+[MIID_H_Senerio_Rexcalibur]
+Powerful wind magic wielded by
+Emblem Soren.
+Effective: Flying. Grants Lck+3.
