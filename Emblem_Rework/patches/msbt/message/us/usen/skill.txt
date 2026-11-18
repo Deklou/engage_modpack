@@ -363,32 +363,32 @@ HP is 2 or more, unit loses 1 HP at
 start of combat and deals +4
 damage during combat.
 
-[MSID_CelicaEngageAtk＋]
+[MSID_CelicaEngageAtk_Plus]
 Warp Ragnarok+
 
-[MSID_H_CelicaEngageAtk_CMD＋]
-Warp and attack with a chosen tome.
+[MSID_H_CelicaEngageAtk_CMD_Plus]
+Warp far away and attack.
 
-[MSID_H_CelicaEngageAtk＋]
+[MSID_H_CelicaEngageAtk_Plus]
 Use to warp up to 10 spaces and
 attack with a tome of your choice.
 
-[MSID_H_CelicaEngageAtk＋_Dragon]
+[MSID_H_CelicaEngageAtk_Plus_Dragon]
 Use to warp up to 10 spaces and
 attack with a tome of your choice.
 [Dragon] Attack range +1.
 
-[MSID_H_CelicaEngageAtk＋_Horse]
-Use to warp up to 12 spaces and
+[MSID_H_CelicaEngageAtk_Plus_Horse]
+Use to warp up to 10 spaces and
 attack with a tome of your choice.
 [Cavalry] Warp distance +2.
 
-[MSID_H_CelicaEngageAtk＋_Fly]
-Use to warp up to 15 spaces and
+[MSID_H_CelicaEngageAtk_Plus_Fly]
+Use to warp up to 10 spaces and
 attack with a tome of your choice.
 [Flying] Warp distance +5.
 
-[MSID_H_CelicaEngageAtk＋_Magic]
+[MSID_H_CelicaEngageAtk_Plus_Magic]
 Use to warp up to 10 spaces and
 attack with a tome of your choice.
-[Mystical] Damage +20%.
+[Mystical] +20% damage.
