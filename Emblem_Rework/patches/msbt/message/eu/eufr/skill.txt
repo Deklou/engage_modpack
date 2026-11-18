@@ -401,3 +401,38 @@ Si l'unité est équipée d'un tome et
 que ses PV sont au moins à 2, l'unité
 perd 1 PV en début de combat
 et inflige +4 points de dégâts.
+
+[MSID_CelicaEngageAtk＋]
+Téléragnation+
+
+[MSID_H_CelicaEngageAtk_CMD＋]
+Se téléporter et attaquer avec un tome.
+
+[MSID_H_CelicaEngageAtk＋]
+Permet de se téléporter jusqu'à
+10 cases et d'attaquer avec un tome
+au choix.
+
+[MSID_H_CelicaEngageAtk＋_Dragon]
+Permet de se téléporter jusqu'à
+10 cases et d'attaquer avec un tome
+au choix.
+[Draconique] Portée d'attaque +1.
+
+[MSID_H_CelicaEngageAtk＋_Horse]
+Permet de se téléporter jusqu'à
+12 cases et d'attaquer avec un tome
+au choix.
+[Cavalerie] Téléportation +2 cases.
+
+[MSID_H_CelicaEngageAtk＋_Fly]
+Permet de se téléporter jusqu'à
+15 cases et d'attaquer avec un tome
+au choix.
+[Volant] Téléportation +5 cases.
+
+[MSID_H_CelicaEngageAtk＋_Magic]
+Permet de se téléporter jusqu'à
+10 cases et d'attaquer avec un tome
+au choix.
+[Mystique] Dégâts +20 %.
